@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(74, 231, 54);
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+    /* margin: 0;
+    padding: 0; */
+    /* font: inline; */
+    /* text-decoration:none; */
+    /* word-spacing: 30px; */
+    /* display: inline-block; */
+}
+
+.head{
+    background-color: black;
+    line-height: 25px;
+}
+nav ul li a{
+    display:inline-block;
+}
+nav ul li {
+    width: 15%;
+    float: left;
+    font-size: 20px; 
+    
+}
+a{
+    text-decoration: none;
+}
+a :hover{
+    background-color:rgb(185, 13, 13);
+}
+#about{
+    margin:25px;
+    /* border:hotpink; */
+    /* display: flex; */
+   
+}
+.xyz{
+    font-size: 35px;
+    text-align:center;
+    padding-top:45px;
+}
+.abt{
+    font-size:20px;
+}
+#skills div img{
+    height:70px;
+    width:70px;
+    /* text-align: center */
+    padding:20px;
+}
+#skills{
+    display: flex;
+    justify-content: center;
+}
+.sk{
+    font-size: 35px;
+    text-align:center;
+}
+.acad{
+    font-size: 35px;
+    text-align: center;
+}
+#acade{
+    font-size:20px;
+}
+.ac{
+    font-size: 35px;
+    text-align: center;
+}
+.ave{
+    font-size:20px;
+}
+.con{
+    font-size: 35px;
+    text-align: center;
+}
+#social{
+    display: flex;
+    justify-content: center;
+}
+#social div img{
+    height: 80px;
+    width: 80px;
+    padding: 20px;
+}
